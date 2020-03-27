@@ -1,4 +1,4 @@
-go to [here](https://Fettabachi.github.io/monsters-rolodex) to view the project.
+Go to [here](https://Fettabachi.github.io/monsters-rolodex) to view the project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
