@@ -1,3 +1,5 @@
+go to [https://Fettabachi.github.io/monsters-rolodex](https://Fettabachi.github.io/monsters-rolodex) to view the project live.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
